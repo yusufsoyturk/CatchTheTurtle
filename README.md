@@ -1,1 +1,1 @@
-![Oyun GIF](oyun.gif)
+![Oyun GIF](CatchTheTurtle.gif)
